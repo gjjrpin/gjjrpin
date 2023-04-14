@@ -1,4 +1,4 @@
-### Hi 👋, I'm GJ Pineda
+<h1> Hi 👋, I'm GJ Pineda </h1>
 
 <!--
 **gjjrpin/gjjrpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
