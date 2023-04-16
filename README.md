@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gjjrpin" alt="gjjrpin" /></a> </p>
 
-- 🔭 I’m currently working on [Common Ground](https://commonground.chat/)
+- 🔭 I’m currently working on [Common Ground](https://www.commonground.chat/)
 
 - 🌱 I’m currently learning **Next.js, React Native**
 
-- 👨‍💻 All of my projects are available at [gjpineda.dev](gjpineda.dev)
+- 👨‍💻 All of my projects are available at [gjpineda.dev](https://www.gjpineda.dev)
 
 - 📫 How to reach me **gjjrpineda@gmail.com**
 
