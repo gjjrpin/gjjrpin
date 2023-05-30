@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, React Native**
 
-- 👨‍💻 All of my projects are available at [https://www.gjpineda.dev](https://www.gjpineda.dev))
+- 👨‍💻 All of my projects are available at www.gjpineda.dev
 
 - 📫 How to reach me **gjjrpineda@gmail.com**
 
