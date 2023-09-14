@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GJ Pineda</h1>
 <h3 align="center">A passionate full-stack developer from Canada</h3>
 
-- 🔭 I’m currently working on [Common Ground](https://commonground.chat/)
+- 🔭 I’m currently working on [Opinova](https://opinova.chat/)
 
 - 🌱 I’m currently learning **Next.js, React Native**
 
