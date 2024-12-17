@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **gjjrpineda@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1zaYvf5n7hoyBsOVlD_SZx4syfgKQLKnE/view?usp=sharing](https://drive.google.com/file/d/1zaYvf5n7hoyBsOVlD_SZx4syfgKQLKnE/view?usp=sharing)
-
 - ⚡ Fun fact **I got a tattoo from the oldest tattoo artist in the world. She's was 103 years old!**
 
 <h3 align="left">Connect with me:</h3>
