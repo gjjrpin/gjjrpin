@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm GJ Pineda</h1>
-<h3 align="center">A passionate full-stack developer from Canada</h3>
+<h3 align="center">A passionate Fraud Analyst and Software Developer</h3>
 
-- 🌱 I’m currently learning **Next.js, React Native**
+- 🌱 I’m currently learning Chainanalysis and SQL
 
-- 👨‍💻 All of my projects are available at www.gjpineda.ca
+- 👨‍💻 My portfolio website is www.gjpineda.ca
 
 - 📫 How to reach me **gjjrpineda@gmail.com**
 
